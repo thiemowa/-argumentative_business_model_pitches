@@ -14,4 +14,4 @@ Citation
    	   
 If you use the data, cite the following publication
 
-   Thiemo Wambsganss and Christina. Niklaus. 2022. "Modeling Persuasive Discourse to Adaptively Support Students’ Argumentative Writing" In: 60th Annual Meeting of the Association for Computational Linguistics.
+   Thiemo Wambsganss and Christina. Niklaus. 2022. "Modeling Persuasive Discourse to Adaptively Support Students’ Argumentative Writing" In: 60th Annual Meeting of the Association for Computational Linguistics (ACL), Dublin, Ireland.
